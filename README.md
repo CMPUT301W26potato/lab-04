@@ -1,7 +1,7 @@
 # lab-04
-Lab Member 1: Nathan
-Lab Member 2 :Rehaan
-Lab Member 3: Sarang
-Lab Member 4: Grace
-Lab Member 5: Karina
-Lab Member 6: Viktoria
+Lab Member 1: ntchan
+Lab Member 2 :rehaan
+Lab Member 3: sarang2
+Lab Member 4: gshin1
+Lab Member 5: xz30
+Lab Member 6: vlysenko
